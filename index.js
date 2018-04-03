@@ -1,1 +1,4 @@
-alert("Hello world!");
+var name = document.querySelector("#exampleInputName");
+
+
+
